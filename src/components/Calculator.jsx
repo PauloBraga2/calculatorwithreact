@@ -1,10 +1,11 @@
 import React from 'react'
 import './Calculator.css'
+import Container from '@mui/material/Container'
 
 export default function Calculator() {
     return (
-        <div>
-            <button>0</button>
+        <Container maxWidth="xs">
+        <div className='wrapper'>
             <button>1</button>
             <button>2</button>
             <button>3</button>
@@ -14,6 +15,7 @@ export default function Calculator() {
             <button>7</button>
             <button>8</button>
             <button>9</button>
+            <button>0</button>
             <button>,</button>
             <button>AC</button>
             <button>+/-</button>
@@ -23,5 +25,6 @@ export default function Calculator() {
             <button>+</button>
             <button>=</button>
         </div>
+        </Container>
     )
 }

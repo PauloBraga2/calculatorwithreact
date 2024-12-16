@@ -11,3 +11,8 @@ button{
 button:hover{
     cursor: pointer;
 }
+
+.wrapper{
+    background-color: black;
+    border-radius: 1em;
+}
