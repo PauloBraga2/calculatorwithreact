@@ -29,4 +29,4 @@ Este projeto é licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) 
 
 ## Agradecimentos
 
-Agradecemos ao professor Marcos pela orientação e suporte durante o desenvolvimento deste projeto.
+Agradecemos ao professor Marcos Soares pela orientação e suporte durante o desenvolvimento deste projeto.
