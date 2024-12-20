@@ -1,28 +1,32 @@
+# Calculadora em React.JS
+
+## Descrição
+
 Este projeto é uma calculadora desenvolvida utilizando React.JS para a disciplina de Desenvolvimento para Dispositivos Móveis. A calculadora inclui funcionalidades básicas como adição, subtração, multiplicação e divisão.
 
-Alunos
-Francisco Isaac Pereira Silva
+## Alunos
 
-Paulo Braga Uchôa Filho
+- Francisco Isaac Pereira Silva
+- Paulo Braga Uchôa Filho
 
-Funcionalidades
-Adição
+## Funcionalidades
 
-Subtração
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
 
-Multiplicação
+## Tecnologias Utilizadas
 
-Divisão
+- React.JS
+- JavaScript
+- HTML
+- CSS
 
-Tecnologias Utilizadas
-React.JS
-JavaScript
-HTML
-CSS
+## Licença
 
+Este projeto é licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Licença
-Este projeto é licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+## Agradecimentos
 
-Agradecimentos
 Agradecemos ao professor Marcos pela orientação e suporte durante o desenvolvimento deste projeto.
